@@ -1,3 +1,3 @@
 # Simple-js-Clock
-Simple Javascript clock
+Simple Javascript clock <br />
 Nothing special
