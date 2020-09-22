@@ -1,6 +1,6 @@
 /*jslint es6 */
 /*global
-today, document, setInterval
+document, setInterval
 */
 let timer3 = 0;
 let timer2 = 0;
